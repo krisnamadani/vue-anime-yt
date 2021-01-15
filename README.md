@@ -1,4 +1,5 @@
 # vue-anime-yt
+tutorial link : https://www.youtube.com/watch?v=AI5lsNeVyO8&t=12s
 
 ## Project setup
 ```
